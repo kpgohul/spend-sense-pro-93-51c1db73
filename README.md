@@ -1,7 +1,7 @@
-# Welcome to your Lovable project visite (https://spend-sense-pro-93.lovable.app)
+# Welcome to your Lovable project 
 
 ## Project info
-
+[visite site](https://spend-sense-pro-93.lovable.app)
 **URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
 ## How can I edit this code?
